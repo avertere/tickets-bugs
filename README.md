@@ -6,5 +6,5 @@
 
 | bug | solution |
 | :--- | :--- |
-| non-zero status in R | There are missing some libraries. The missing libraries names appears in the Error Message in R. To solve, it is enough to install these libraries on the system via bash. For example, if the missing one is libcurv4.deb, use `sudo apt install libcurl4.deb` |
+| non-zero status in R | There are missing libraries. The missing libraries names appears in the Error Message in R. To solve, it is enough to install these libraries on the system via bash. For example, if the missing one is libcurv4.deb, use `sudo apt install libcurl4.deb` |
 
